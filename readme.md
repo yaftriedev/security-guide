@@ -4,7 +4,7 @@ Esta guía proporciona información sobre la seguridad en internet
 - [Malware y Ingeniería Social](./malware-ing-social.md)
 - [Guía Básica sobre Encriptación](./encriptacion.md)
 
-## Herramientas
+# Herramientas
 - [Autentificacion: Alias de Correo](./autentificacion/alias-correo.md)
 - [Autentificacion: Gestor de Contraseñas](./autentificacion/gestor-contraseñas.md)
 - [Internet: Navegador y Bloqueador de Aununcios](./internet/navegador.md)
