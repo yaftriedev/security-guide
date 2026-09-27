@@ -1,5 +1,8 @@
 ```
 Las medidas de los niveles anteriores se aplican al siguiente
+Amenazas: vulnerabilidades o ataques a evitar
+Medidas: medidas técnicas que debemos adoptar
+Herramientas: herramientas que se recomienda usar o cambiar por versiones privadas o seguras
 ```
 
 # *Nivel 1*: Seguridad. Ataques y tracking
