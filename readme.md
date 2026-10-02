@@ -5,8 +5,9 @@ Esta guía proporciona información sobre la seguridad en internet
 - [Guía Básica sobre Encriptación](./encriptacion.md)
 
 # Herramientas
-- [Autentificacion: Alias de Correo](./autentificacion/alias-correo.md)
-- [Autentificacion: Gestor de Contraseñas](./autentificacion/gestor-contraseñas.md)
+- [Autentificación: Segundo Factor de Autentificación](./autentificacion/2fa.md)
+- [Autentificación: Alias de Correo](./autentificacion/alias-correo.md)
+- [Autentificación: Gestor de Contraseñas](./autentificacion/gestor-contraseñas.md)
 - [Internet: Navegador y Bloqueador de Aununcios](./internet/navegador.md)
 - [Internet: Buscador](./internet/buscador.md)
 - [Internet: Correo](./internet/correo.md)
