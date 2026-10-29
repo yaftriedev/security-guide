@@ -1,6 +1,6 @@
 # Local
 - [**KeePassXC**](https://keepassxc.org/): Disponible en Windows, MacOS, Linux y Extensión de Navegador
-- [**KeePassDC**](https://www.keepassdx.com/): Disponible en Fdroid, PlayStore y Repo (github)
+- [**KeePassDX**](https://www.keepassdx.com/): Disponible en Fdroid, PlayStore y Repo (github)
 
 ### KeePassXC almacena las contraseñas en un archivo de base de datos cifrado con extensión .kdbx.
 - Contenido: contraseñas, usuarios, URL, notas y otros datos organizados en grupos.
@@ -15,9 +15,8 @@
 |---|---|---|---|
 | País | EE. UU. | Suiza | Canadá |
 | Open Source | Sí | Sí | No |
-| Cifrado | 🟢 AES-256-CBC | 🟢 AES-256-GCM | 🟢 AES-256 |
+| Cifrado | 🟢 AES-256-CBC | 🟢 AES-256-GCM | 🟢 AES-256-GCM |
 | E2EE / Zero-Knowledge | 🟢 Sí | 🟢 Sí | 🟢 Sí |
-| Protección de claves | Argon2id / PBKDF2 | Derivación de claves | Contraseña + Secret Key |
 | Auditorías externas | 🟢 Sí | 🟢 Sí | 🟢 Sí |
 | Autohospedaje | 🟢 Sí | 🔴 No | 🔴 No |
 | Passkeys y TOTP | 🟢 Sí | 🟢 Sí | 🟢 Sí |
@@ -26,5 +25,5 @@
 
 ---
 ```
-A fecha de 09/2026, por corregir errores y contrastar info
+A fecha de 09/2026
 ```

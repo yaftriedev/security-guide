@@ -6,10 +6,10 @@
 # Comparación Escritorio
 | Característica | [Brave](https://brave.com/es/) | [Firefox](https://www.firefox.com/es-ES/) | [Mullvad Browser](https://mullvad.net/es/browser) | [LibreWolf](https://librewolf.net/) |
 |---|---|---|---|---|
-| Cookies de terceros | 🟢 Bloqueadas | 🟡 Protección mejorada | 🟢 Bloqueadas | 🟢 Bloqueadas |
-| Rastreadores | 🟢 Bloqueados | 🟡 Protección mejorada | 🟢 Bloqueados | 🟢 Bloqueados |
+| Cookies de terceros | 🟢 Bloqueadas | 🟡 Aisladas | 🟢 Bloqueadas | 🟢 Bloqueadas |
+| Rastreadores | 🟢 Bloqueados | 🟡 Requiere configuración | 🟢 Bloqueados | 🟢 Bloqueados |
 | Fingerprinting | 🟡 Protección integrada | 🟡 Protección básica | 🟢 Protección avanzada | 🟢 Protección avanzada |
-| Telemetría | 🟡 Opcional | 🔴 Sí, configurable | 🟢 Desactivada | 🟢 Desactivada |
+| Telemetría | 🟡 Opcional | 🔴 Menos, configurable | 🟢 Desactivada | 🟢 Desactivada |
 | Cuenta obligatoria | 🟢 No | 🟢 No | 🟢 No | 🟢 No |
 
 # Comparación Móvil
@@ -25,5 +25,5 @@
 ---
 
 ```
-A fecha de 09/2026, por corregir errores y contrastar info
+A fecha de 09/2026
 ```
