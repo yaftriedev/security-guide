@@ -9,8 +9,7 @@
 - Acceso: solo se puede consultar el contenido después de desbloquear la base de datos.
 - Almacenamiento: el archivo se guarda localmente y puedes sincronizarlo mediante servicios como Nextcloud o una memoria USB.
 
-# Online
-# Comparativa: Bitwarden vs. Proton Pass vs. 1Password
+# Online: Bitwarden vs. Proton Pass vs. 1Password
 
 | Característica | [Bitwarden](https://bitwarden.com) | [Proton Pass](https://proton.me/pass) | [1Password](https://1password.com/) |
 |---|---|---|---|

@@ -3,6 +3,7 @@ Esta guía proporciona información sobre la seguridad en internet
 - [Niveles de amenaza](./niveles-amenaza.md)
 - [Malware y Ingeniería Social](./malware-ing-social.md)
 - [Guía Básica sobre Encriptación](./encriptacion.md)
+- [Privacidad, Rastreo y Vigilancia Masiva](./rastreo-privacidad.md)
 
 # Herramientas
 - [Autentificación: Segundo Factor de Autentificación](./autentificacion/2fa.md)
