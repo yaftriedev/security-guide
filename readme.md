@@ -1,24 +1,14 @@
 # Guía de Seguridad
-Esta guía proporciona información sobre la seguridad en internet
+Esta guía proporciona información sobre la privacidad y seguridad en internet
 - [Niveles de amenaza](./niveles-amenaza.md)
 - [Malware y Ingeniería Social](./malware-ing-social.md)
 - [Guía Básica sobre Encriptación](./encriptacion.md)
 - [Privacidad, Rastreo y Vigilancia Masiva](./rastreo-privacidad.md)
-
-# Herramientas
-- [Autentificación: Segundo Factor de Autentificación](./autentificacion/2fa.md)
-- [Autentificación: Alias de Correo](./autentificacion/alias-correo.md)
-- [Autentificación: Gestor de Contraseñas](./autentificacion/gestor-contraseñas.md)
-- [Internet: Navegador y Bloqueador de Aununcios](./internet/navegador.md)
-- [Internet: Buscador](./internet/buscador.md)
-- [Internet: Correo](./internet/correo.md)
-- [Internet: DNS](./internet/dns.md)
-- [Internet: VPN](./internet/vpn.md)
-- [Software: Linux](./so/linux.md)
-- [Software: Software Libre](./so/software-libre.md)
-- [Software: Graphene OS](./so/graphene-os.md)
-- [Software: Apps Android](./so/apps-android.md)
-
+- [Autentificación: Gestor de Contraseñas, Alias de Correo y 2FA](./auth.md)
+- [Internet: Navegador, Buscador y DNS](./internet.md)
+- [Provedores: VPN y Correo](./provedores.md)
+- [GrapheneOS, Instaladores y Apps](./graphene-os.md)
+- [Linux y Software Escritorio](./linux.md)
 
 # Fuentes
 - [Manifiesto Cyberpunk](https://activism.net/cypherpunk/manifesto.html
@@ -31,3 +21,7 @@ Esta guía proporciona información sobre la seguridad en internet
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Privacy Guides](https://www.privacyguides.org/es/)
 - [Privacy Tools](https://privacytools.io/)
+
+```
+A fecha de 09/2026
+```
